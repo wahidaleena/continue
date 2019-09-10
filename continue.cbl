@@ -8,8 +8,10 @@ DATA DIVISION.
 PROCEDURE DIVISION.
    A-PARA.
    IF A EQUAL TO B
-           MOVE C TO D
-           CONTINUE
+      MOVE C TO D
+      CONTINUE
    ELSE
-           MOVE F TO D
+      MOVE F TO D
    END-IF
+      
+STOP RUN.
