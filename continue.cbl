@@ -15,9 +15,9 @@ PROCEDURE DIVISION.
    END-IF
       
 STOP RUN.
-    IF A EQUAL TO B
+IF A EQUAL TO B
       MOVE C TO D
       CONTINUE
-   ELSE
+ELSE
       MOVE F TO D
-   END-IF  
+END-IF  
