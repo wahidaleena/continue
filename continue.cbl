@@ -20,4 +20,4 @@ IF A EQUAL TO B
       CONTINUE
 ELSE
       MOVE F TO D
-END-IF  
+END-IF.
